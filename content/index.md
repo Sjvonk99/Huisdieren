@@ -8,7 +8,8 @@ Welkom op mijn persoonlijke huisdieren- en terrarium-wiki. Hier houd ik bij welk
 
 ## Waar wil je naartoe?
 
-- [[Huidige Huisdieren/index|🐱 Huidige Huisdieren]] — alle dieren die ik nu heb: katten, bidsprinkhanen, pissebedden, mieren en de voederkweek.
+- [[Huidige Huisdieren/index|🐱 Huidige Huisdieren]] — alle dieren die ik nu heb: katten, bidsprinkhanen, pissebedden en mieren.
 - [[Toekomstige Huisdieren/index|🔮 Toekomstige Huisdieren]] — soorten die ik overweeg, met hun verzorgingseisen.
+- [[Voederkweek/index|🪳 Voederkweek]] — de voederdieren: Dubia's, krulvliegen, en wat er nog bij komt.
 - [[Handleidingen en Substraatrecepten/index|🌿 Handleidingen & Substraat-Recepten]] — kant-en-klare recepten en bouwinstructies voor bioactieve terraria.
 - [[Seizoensschema en Onderhoudslog|📅 Seizoensschema & Onderhoudslog]] — wat er wanneer moet gebeuren, per seizoen.

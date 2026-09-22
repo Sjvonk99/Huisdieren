@@ -14,7 +14,7 @@ tags: [huisdieren, formicidae]
 
 **Zonder werksters:** niet voeren, rustig en donker bewaren.
 
-**Met werksters:** een druppel suikerwater/honing op folie, plus een klein voederinsect (bijv. een fruitvliegje).
+**Met werksters:** een druppel suikerwater/honing op folie, plus een klein voederinsect (bijvoorbeeld een fruitvliegje — zie [[Fruitvliegen]]).
 
 **Schimmel op het watje:** zwarte vlekken zijn meestal onschadelijk. Pluizige, witte schimmel vereist een verhuizing naar een schoon buisje via de "licht & donker"-methode: het oude buisje in het licht/koeler leggen, het nieuwe buisje donker (folie/karton) en iets warmer maken, zodat de kolonie zonder dwang verhuist.
 
@@ -26,3 +26,9 @@ tags: [huisdieren, formicidae]
 | Oktober t/m maart | 5-10°C | Diapauze (koelkast of onverwarmde schuur/garage); waterreservoir blijven controleren |
 
 Zie ook [[Seizoensschema en Onderhoudslog]] voor het complete jaarschema.
+
+## Bronnen
+
+- [Handleiding Eerste Mierenkolonie (PDF) — Antheap](https://antheap.net/shared/download/documents/guides/public/Handleiding%20Eerste%20Mierenkolonie.pdf)
+- [Het starten van een mierenkolonie, Lasius niger — QualityAnts](https://qualityants.nl/en/starting-an-ant-colony-lasius-niger/)
+- [Vragen over winterslaap — AntForum](https://www.antforum.nl/viewtopic.php?t=9417)

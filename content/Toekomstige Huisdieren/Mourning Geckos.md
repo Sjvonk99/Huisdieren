@@ -35,7 +35,7 @@ Nachtdier — voornaamste behoefte is warmte (geen sterke UVB-verplichting), al 
 ## Voeding
 
 - Basis: commercieel gekko-voeder in poedervorm (crested-gecko-diet type).
-- Aanvullend: fruitvliegjes, kleine krekels of Dubia-nimfen. Zie [[Voederkweek]] voor de bestaande Dubia-kweek.
+- Aanvullend: fruitvliegjes, kleine krekels of Dubia-nimfen. Zie [[Voederkweek/index|Voederkweek]] voor de bestaande kweken.
 - Jonge dieren: dagelijks met calcium bestoven insecten. Volwassen dieren: 2-3 keer per week.
 - Water: drinken druppels van bladeren/oppervlakken op — 1-2 keer per dag nevelen is voldoende, apart drinkbakje is niet strikt nodig.
 

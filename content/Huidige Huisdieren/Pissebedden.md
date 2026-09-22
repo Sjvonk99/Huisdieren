@@ -32,7 +32,7 @@ Groot terrarium met kweeklampen en bioactieve bodem: drainagelaag (hydrokorrels)
 ### Porcellionides pruinosus ('Powder Orange' / 'Powder Blue')
 
 - **Aantal:** Startgroep
-- **Status:** Ingezet als opruimploeg (Clean-up Crew) voor het bioactieve mantis-terrarium en de Dubia-kweek.
+- **Status:** Ingezet als opruimploeg (Clean-up Crew) voor het bioactieve mantis-terrarium en de Dubia-kweek. Zie [[Dubia Kakkerlakken]].
 
 **Klimaat & eisen**
 
@@ -41,3 +41,10 @@ Groot terrarium met kweeklampen en bioactieve bodem: drainagelaag (hydrokorrels)
 - Blijft op de bodem en onder bladeren — stoort de bidsprinkhaan niet, gedijt goed in kleine groepjes (5-10 stuks).
 
 > 💡 Voeg hier gerust extra `###`-hoofdstukken toe zodra er nieuwe isopod-soorten of -kleurvormen bijkomen.
+
+## Bronnen
+
+- [Zebra Isopod Care Sheet — The Bio Dude](https://www.thebiodude.com/blogs/isopod-and-springtail-clean-up-crew-guides-culturing-care-and-breeding/zebra-isopod-care-sheet)
+- [Zebra Isopods (Armadillidium maculatum) Bioactive Care Guide — Terrarium Tribe](https://terrariumtribe.com/zebra-isopods/)
+- [Powder Isopod Care Sheet — The Bio Dude](https://www.thebiodude.com/blogs/isopod-and-springtail-clean-up-crew-guides-culturing-care-and-breeding/powder-isopod-care-sheet)
+- [Powder Orange Isopods (Porcellionides pruinosus) — Terrarium Tribe](https://terrariumtribe.com/powder-orange-isopods/)

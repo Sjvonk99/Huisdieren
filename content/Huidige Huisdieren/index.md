@@ -11,6 +11,5 @@ Overzicht van alle dieren die ik momenteel heb, per soortgroep. Elke pagina hier
 | [[Bidsprinkhanen]] | Deroplatys sp. (Doodbladbidsprinkhaan) | 1 | Actief, sinds sep. 2026 |
 | [[Pissebedden]] | Armadillidium maculatum, Porcellionides pruinosus | Kolonies | Actief |
 | [[Mieren]] | Waarschijnlijk Lasius niger | 2 koninginnen | Opstartfase, diapauze vanaf okt. |
-| [[Voederkweek]] | Blaptica dubia | Kweekkolonie | Actief |
 
-Zie ook: [[Handleidingen en Substraatrecepten/index|Substraat-Recepten]] voor de bioactieve bodemopbouw die bij meerdere van deze dieren gebruikt wordt, en [[Seizoensschema en Onderhoudslog]] voor het onderhoudsritme.
+Zie ook: [[Voederkweek/index|Voederkweek]] voor de voederdieren die deze dieren eten, [[Handleidingen en Substraatrecepten/index|Substraat-Recepten]] voor de bioactieve bodemopbouw, en [[Seizoensschema en Onderhoudslog]] voor het onderhoudsritme.
