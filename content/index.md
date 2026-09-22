@@ -1,9 +1,7 @@
-# 🐾 Huisdieren & Terraria Personal Wiki
+# 🐾 Huisdieren Wiki
 
-> **Laatste update:** September 2026  
-> **Status:** Actief  
-> **Systeem:** Personal Knowledge Base (Karpathy Wiki Model)
-
+> **Laatste update:** 22 September 2026
+> 
 ---
 
 ## 📑 Inhoudsopgave (Index)
