@@ -1,9 +1,9 @@
-name: Deploy v5 Preview
+name: Deploy Preview
 
 on:
   push:
     branches:
-      - v5
+      - main
   workflow_dispatch:
 
 permissions:
@@ -11,10 +11,10 @@ permissions:
   deployments: write
 
 jobs:
-  deploy-v5:
+  deploy:
     if: ${{ github.repository == 'jackyzha0/quartz' }}
     runs-on: ubuntu-latest
-    name: Deploy v5 to Cloudflare Pages
+    name: Deploy to Cloudflare Pages
     steps:
       - uses: actions/checkout@v6
         with:
@@ -26,7 +26,7 @@ jobs:
           node-version: 24
 
       - name: Cache dependencies
-        uses: actions/cache@v5
+        uses: actions/cache@main
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -34,7 +34,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Cache Quartz plugins
-        uses: actions/cache@v5
+        uses: actions/cache@main
         with:
           path: .quartz/plugins
           key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
@@ -59,6 +59,6 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           projectName: quartz
-          deploymentName: v5 Branch Preview
-          branch: v5
+          deploymentName: Branch Preview
+          branch: main
           directory: public
