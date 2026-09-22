@@ -137,5 +137,3 @@
 | **Okt - Mrt** | Mieren | **Diapauze / Winterslaap** op $5-10^\circ\text{C}$. Waterreservoir controleren. |
 | **Wekelijks** | Terraria | Luchtvochtigheid checken, mos-hoekjes bijbevochtigen, voedselresten verwijderen. |
 | **Maandelijks**| Isopods | Calcium/Eiwit aanvullen (sepia, visvoer) en droge bladeren bijvullen. |
-
-
