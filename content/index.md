@@ -1,10 +1,10 @@
-# 🐾 Huisdieren Wiki
-
-> **Laatste update:** 22 September 2026
-> 
+---
+title: 🐾 Huisdieren & Terraria Personal Wiki
 ---
 
-## 📑 Inhoudsopgave (Index)
+> **Laatste update:** 22 September 2026 
+
+## 📑 Inhoudsopgave
 1. [[#1. Huidige Huisdieren & Kweken|1. Huidige Huisdieren & Kweken]]
 2. [[#2. Potentiële / Toekomstige Huisdieren|2. Potentiële / Toekomstige Huisdieren]]
 3. [[#3. Handleidingen & Substraat-Recepten|3. Handleidingen & Substraat-Recepten]]
