@@ -2,14 +2,10 @@
 title: 🐾 Huisdieren & Terraria Wiki
 ---
 
-Welkom op mijn persoonlijke huisdieren- en terrarium-wiki. Hier houd ik bij welke dieren ik heb, hoe ik ze verzorg, welke nieuwe soorten ik overweeg, en met welke substraat-recepten en onderhoudsschema's dat allemaal samenhangt.
+## Inhoud
 
-> **Laatste update:** 22 september 2026
-
-## Waar wil je naartoe?
-
-- [[Huidige Huisdieren/index|🐱 Huidige Huisdieren]] — alle dieren die ik nu heb: katten, bidsprinkhanen, pissebedden en mieren.
-- [[Toekomstige Huisdieren/index|🔮 Toekomstige Huisdieren]] — soorten die ik overweeg, met hun verzorgingseisen.
-- [[Voederkweek/index|🪳 Voederkweek]] — de voederdieren: Dubia's, krulvliegen, en wat er nog bij komt.
-- [[Handleidingen en Substraatrecepten/index|🌿 Handleidingen & Substraat-Recepten]] — kant-en-klare recepten en bouwinstructies voor bioactieve terraria.
-- [[Seizoensschema en Onderhoudslog|📅 Seizoensschema & Onderhoudslog]] — wat er wanneer moet gebeuren, per seizoen.
+- [[Huidige Huisdieren/index|🐱 Huidige Huisdieren]] — katten, bidsprinkhanen, vogelspinnen, pissebedden en mieren: registratie, verblijf, klimaat en verzorging.
+- [[Toekomstige Huisdieren/index|🔮 Toekomstige Huisdieren]] — soorten die overwogen worden, met verzorgingseisen en beslispunten.
+- [[Voederkweek/index|🪳 Voederkweek]] — voederdieren: Dubia's, krulvliegen en geplande kweken.
+- [[Handleidingen en Substraatrecepten/index|🌿 Handleidingen & Substraat-Recepten]] — substraatopbouw en inrichting van bioactieve terraria.
+- [[Seizoensschema en Onderhoudslog|📅 Seizoensschema & Onderhoudslog]] — periodieke handelingen per seizoen.

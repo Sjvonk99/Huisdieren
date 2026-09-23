@@ -5,16 +5,26 @@ tags: [handleiding, substraat]
 
 ## Recept: bioactief substraat voor tropisch bos-terrarium
 
-Gebruikt in het huidige [[Bidsprinkhanen|bidsprinkhaan-terrarium]] en de [[Pissebedden|pissebed-bakken]].
+Gebruikt in het [[Bidsprinkhanen|bidsprinkhaan-terrarium]] en de [[Pissebedden|pissebed-bakken]].
 
 1. **Drainagelaag:** circa 2 cm hydrokorrels.
-2. **Scheidingslaag:** fijnmazig horden- of worteldoek (voorkomt dat de grond drassig wordt).
+2. **Scheidingslaag:** fijnmazig horden- of worteldoek, om te voorkomen dat de bodem drassig wordt.
 3. **Substraatmix (circa 3-5 cm):**
-   - 60% kokosvezel/kokoshumus (basis voor vocht)
-   - 20% gedroogde eiken- of beukenbladeren, fijngewreven (voeding voor isopods)
-   - 10% sphagnum mos, plukken doorgemengd (sponswerking)
-   - 10% actieve kool/houtskool, brokjes ongebrand (zuivert de bodem en dient als nestplek voor springstaartjes)
-4. **Afdeklaag:** hele gedroogde bladeren, plus een plukje sphagnum mos in de vochtige hoek.
-5. **Clean-up crew (CUC):** tropische witte springstaartjes + *Porcellionides pruinosus*.
+   - 60% kokosvezel/kokoshumus, als vochtbasis
+   - 20% gedroogde eiken- of beukenbladeren, fijngewreven, als voeding voor isopods
+   - 10% sphagnum mos, plukken doorgemengd, voor sponswerking
+   - 10% actieve kool/houtskool, brokjes ongebrand, ter zuivering van de bodem en als nestplek voor springstaarten
+4. **Afdeklaag:** hele gedroogde bladeren, met een plukje sphagnum mos in de vochtige hoek.
+5. **Opruimploeg:** tropische witte springstaartjes met *Porcellionides pruinosus*.
 
-> 💡 Voeg hier nieuwe recepten toe zodra er een ander type terrarium bijkomt (bijv. een droger opzet voor een toekomstig dier).
+## Vochtregime per bewoner
+
+De bodemopbouw is voor alle bakken gelijk; het sproeiregime niet.
+
+| Bewoner | Vochtregime |
+| :--- | :--- |
+| *Armadillidium* (zebra, St. Lucia) | Eén vochtige hoek, circa twee derde van de bak droog. Mag niet drassig worden. |
+| *Nesodillo arcangelii* (Shiro Utsuri, Purple Ghost) | Constanter vochtig, minimaal circa 50% luchtvochtigheid; mag niet volledig uitdrogen. |
+| *Porcellionides pruinosus* | Tolerant; dunne laag met bladafval volstaat. |
+| Bidsprinkhanen | Licht vochtige bodem, dagelijks nevelen tegen de wanden. |
+| Vogelspin | Overwegend droog, met één licht vochtige zone en een gevuld waterbakje. |

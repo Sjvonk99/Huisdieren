@@ -21,7 +21,7 @@ De krulvleugel-stam heeft vervormde vleugels en kan daardoor niet of nauwelijks 
 - Suikerwater of honing op een propje watten of keukenpapier, eventueel aangevuld met een stukje fruit.
 - Volwassen vliegen leven relatief kort, dus plan het uitkomen rond het moment dat er gevoerd moet worden.
 
-> 📝 Exacte uitkomsttijden verschillen per leverancier en batch — noteer hier wat jouw poppen in de praktijk doen, dat is bruikbaarder dan een algemeen getal.
+Exacte uitkomsttijden verschillen per leverancier en batch. Noteer hier de waarnemingen per bestelling; die zijn bruikbaarder dan een algemene richtwaarde.
 
 ## Bronnen
 

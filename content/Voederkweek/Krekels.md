@@ -28,7 +28,7 @@ De steppenkrekel wordt door kwekers meestal als het prettigere dier omschreven: 
 - Eiafzet in een bakje licht vochtige, oude tuinaarde of potgrond, afgedekt met gaas.
 - Eieren komen bij circa 30°C in ongeveer 10 dagen uit.
 
-> 📝 Beslispunt vóór aanschaf: geluid en ruimte. Een krekelkweek is de luidruchtigste en meest ruimtevragende optie van alle voederdieren hier.
+Beslispunt vóór aanschaf: geluid en ruimte. Een krekelkweek is de luidruchtigste en meest ruimtevragende optie van de voederdieren op deze wiki.
 
 ## Bronnen
 

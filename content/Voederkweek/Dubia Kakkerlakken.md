@@ -26,7 +26,7 @@ Punten uit externe kweekhandleidingen, ter vergelijking met de eigen setup — n
 - **Kweektemperatuur:** kweekbakken worden vaak duidelijk warmer gehouden (tot circa 30-35°C) dan een opkweek-/voorraadbak; koeler (circa 25°C) remt de voortplanting en vertraagt de groei, handig om voorraad op maat te houden.
 - **Onderhoud:** elke paar maanden uitmesten — bodem schoonmaken en droogvoerlaag vervangen.
 
-> ⚠️ Warmtematten altijd met thermostaat/dimmer en volgens de veiligheidsinstructies aansluiten.
+Warmtematten altijd met thermostaat of dimmer aansluiten, volgens de veiligheidsinstructies van de fabrikant.
 
 ## Bronnen
 

@@ -27,7 +27,7 @@ Neem altijd een vleugelloze of vliegzwakke stam — anders vliegt de kweek de ka
 - **Mijten:** de klassieke killer van fruitvliegkweken. Bekers apart van andere kweken zetten en oude bekers tijdig weggooien.
 - **Schimmel:** te natte bodem of te weinig schimmelremmer.
 
-> 📝 Zodra de eerste kweek loopt: noteer hier welke bodem en welke temperatuur in de praktijk het beste werken.
+Zodra de eerste kweek loopt: noteer hier welke voedingsbodem en welke temperatuur in de praktijk het beste resultaat geven.
 
 ## Bronnen
 
