@@ -132,6 +132,10 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: Inhoud
+      folderDefaultState: open
+      useSavedState: false
     layout:
       position: left
       priority: 50
