@@ -7,10 +7,10 @@ Alle voederdieren die ik kweek of in huis haal, met per soort een eigen pagina. 
 
 | Soort | Wetenschappelijke naam | Status | Gaat naar |
 | :--- | :--- | :--- | :--- |
-| [[Dubia Kakkerlakken]] | *Blaptica dubia* | Actief — doorlopende kweek | [[Bidsprinkhanen]], [[Vogelspinnen]], later [[Mourning Geckos]] |
+| [[Dubia Kakkerlakken]] | *Blaptica dubia* | Actief — doorlopende kweek | [[Bidsprinkhanen]], [[Vogelspinnen]], [[Stekelmuizen]], later [[Mourning Geckos]] |
 | [[Krulvliegen]] | *Musca domestica* (krulvleugel-stam) | Actief — poppen, geen eigen kweek | [[Bidsprinkhanen]] |
 | [[Fruitvliegen]] | *Drosophila melanogaster* / *D. hydei* | Gepland | Kleine nimfen, later [[Mourning Geckos]] |
-| [[Krekels]] | *Acheta domesticus* / *Gryllus assimilis* | Overweging | Grotere afnemers |
+| [[Krekels]] | *Acheta domesticus* / *Gryllus assimilis* | Overweging | [[Vogelspinnen]], [[Stekelmuizen]], grotere bidsprinkhanen |
 
 ## Aandachtspunten over de hele linie
 

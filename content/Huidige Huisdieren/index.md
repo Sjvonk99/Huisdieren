@@ -8,8 +8,9 @@ Registratie van alle dieren die momenteel gehouden worden. Elke pagina bevat de 
 | Groep | Soort(en) | Aantal | Status |
 | :--- | :--- | :--- | :--- |
 | [[Katten]] | Britse Korthaar, Russisch Blauw | 2 | Actief |
+| [[Stekelmuizen]] | *Acomys* sp. | 5 vrouwtjes | Actief, sinds sep. 2023 |
 | [[Bidsprinkhanen]] | *Deroplatys gorochovi*, *Hierodula membranacea* | 2 | Actief, sinds sep. 2026 |
-| [[Vogelspinnen]] | *Brachypelma hamorii* | 1 | Actief, sinds 12 sep. 2026 |
+| [[Vogelspinnen]] | *Brachypelma hamorii* | 1 | Actief, sinds sep. 2026 |
 | [[Pissebedden]] | *Armadillidium* spp., *Nesodillo arcangelii*, *Porcellionides pruinosus* | 4 kolonies | Actief |
 | [[Mieren]] | Waarschijnlijk *Lasius niger* | 2 koninginnen | Opstartfase, diapauze vanaf okt. |
 
